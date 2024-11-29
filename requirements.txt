@@ -2,4 +2,4 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn # Optional, for regression
+scikit-learn 
