@@ -3,6 +3,8 @@
 named Input 
 Input/
 *.ipynb_checkpoints
+named .ipynb_checkpoints
+.ipynb_checkpoints/
 
 
 
