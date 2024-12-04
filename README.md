@@ -36,7 +36,7 @@ This project focuses on analyzing rolling volatility trends for financial datase
 ## Visualizations
 - **Rolling Volatility Over Time**:
   - Includes a line plot of rolling volatility.
-  - Key events (e.g., announcements) are marked for contextual understanding.
+  - Key events  are marked for contextual understanding.
 
 ## How to Run the Notebook
 1. **Dependencies**:
