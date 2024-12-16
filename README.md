@@ -56,6 +56,7 @@ This project focuses on analyzing rolling volatility trends for financial datase
 - Interactive visualizations highlighting trends and events.
 - A regression model to predict financial outcomes (to be implemented).
 
-test bastien
+test bastien$
+on est bieen ?
 
 
